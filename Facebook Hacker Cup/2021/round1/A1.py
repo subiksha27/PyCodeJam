@@ -1,5 +1,5 @@
-input_file_name = "weak_typing_chapter_1_sample_input.txt"
-output_file_name = "weak_typing_chapter_1_sample_output.txt"
+input_file_name = "weak_typing_chapter_1_input.txt"
+output_file_name = "weak_typing_chapter_1_output.txt"
 input_file = open(input_file_name)
 output_file = open(output_file_name, 'w')
 
